@@ -1,0 +1,118 @@
+body {
+    padding-top: 50px;
+}
+
+
+.alt1 {
+
+    min-height: 500px;
+    margin-top: -30px;
+    padding-top: 100px;
+
+}
+
+.alt2 {
+    padding: 5px;
+    background: #eee;
+    text-align: center;
+}
+
+
+.padding {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#about{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+
+.imgSection {
+    background-color: darkkhaki;
+    min-height: 500px;
+}
+
+.ITSolutions {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.callout {
+
+    display: table;
+    width: 100%;
+    height: 600px;
+    color: #fff;
+    background: url(../images/keyboard1.jpg) no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.callout1{
+    display: table;
+    width: 100%;
+    height: 600px;
+    color: #fff;
+    background: url(../images/office1.jpg) no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.text-vertical-center{
+    padding-top: 170px;
+    text-align: center;
+}
+
+.jumbotron{
+    background: url(../images/office.jpg) no-repeat center center scroll;
+}
+#ourValue{
+    padding-top: 100px;
+}
+
+.btn-dark {
+    border-radius: 0;
+    color: #fff;
+    background-color: rgba(0,0,0,0.4);
+}
+
+#contact{
+    padding-top: 50px;
+}
+
+#lign1{
+    padding-bottom: 50px;
+}
+
+#lign2{
+    padding-top: 30px;
+    padding-bottom: 100px;
+}
+
+hr {
+    -moz-border-bottom-colors: none;
+    -moz-border-image: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-color: #EEEEEE -moz-use-text-color #FFFFFF;
+    border-style: solid none;
+    border-width: 1px 0;
+    margin: 18px 0;
+}
+
+#contactInfo{
+    padding-top: 100px;
+}
+
+
+
+.test{
+    font-size: 3vw;
+}
