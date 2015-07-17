@@ -26,6 +26,7 @@ function initialize(){
         zoom: 14,
         disableDefaultUI:true,
         zoomControl:true,
+        scrollwheel:false,
         panControl:true,
         mapTypeControl:true,
         scaleControl:true,

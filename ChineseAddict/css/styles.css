@@ -1,3 +1,4 @@
+@import url("https://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css");
 body{
     width:100%;
 
@@ -249,4 +250,9 @@ hr{
     background: #ffffff;
     color:#19b698;
    border-style: none;
+}
+
+.reveal .fa {
+  font-family: 'FontAwesome';
+  font-style: normal;
 }
